@@ -1,0 +1,53 @@
+<Societe>
+<Societe>Valentine</Societe>
+<Contact>
+  <Prenom>Léon</Prenom>
+  <Nom>Desarret</Nom>
+  <Email>l.desarret@valentine.com</Email>
+      <Adresse>
+      <Adresse1>avenue Paul Vaillant Couturier 33</Adresse1>
+      <CP>75012</CP>
+      <Ville>Paris</Ville>
+    </Adresse>
+</Contact>
+<Contact>
+  <Prenom>Lily</Prenom>
+  <Nom>Aubert</Nom>
+  <Email>l.aubert@valentine.com</Email>
+      <Adresse>
+      <Adresse1>place René Clair 12</Adresse1>
+      <CP>75016</CP>
+      <Ville>Paris</Ville>
+    </Adresse>
+</Contact>
+<Contact>
+  <Prenom>Ferdinand</Prenom>
+  <Nom>Gauche</Nom>
+  <Email>f.gauche@valentine.com</Email>
+      <Adresse>
+      <Adresse1>Rue Belliard 23</Adresse1>
+      <CP>75009</CP>
+      <Ville>Paris</Ville>
+    </Adresse>
+</Contact>
+<Contact>
+  <Prenom>Fleurine</Prenom>
+  <Nom>Delaistre</Nom>
+  <Email>f.delaistre@valentine.com</Email>
+      <Adresse>
+      <Adresse1>rue Maryse Bastié</Adresse1>
+      <CP>33440</CP>
+      <Ville>Saint-Louis-de-Montferrand</Ville>
+    </Adresse>
+</Contact>
+<Contact>
+  <Prenom>Arthur</Prenom>
+  <Nom>Royer</Nom>
+  <Email>a.royer@valentine.com</Email>
+      <Adresse>
+      <Adresse1>rue de Stockholm</Adresse1>
+      <CP>32100</CP>
+      <Ville>Larressingle</Ville>
+    </Adresse>
+</Contact>
+</Societe>

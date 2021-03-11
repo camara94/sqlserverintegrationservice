@@ -1,0 +1,33 @@
+<Societe>
+    <Societe>Valentin Decker</Societe>
+    <Contact>
+      <Prenom>Franck</Prenom>
+      <Nom>Dargont</Nom>
+      <Email>f.dargont@valentindecker.com</Email>
+	  <Adresse>
+      <Adresse1>avenue de la Pinède</Adresse1>
+      <CP>75017</CP>
+      <Ville>Paris</Ville>
+    </Adresse>
+    </Contact>
+    <Contact>
+      <Prenom>Sylvie</Prenom>
+      <Nom>Dufour</Nom>
+      <Email>s.dufour@valentindecker.com</Email>
+	      <Adresse>
+      <Adresse1>rue Emile Zola</Adresse1>
+      <CP>76540</CP>
+      <Ville>Angerville-la-Martel</Ville>
+    </Adresse>
+    </Contact>
+    <Contact>
+      <Prenom>Yoann</Prenom>
+      <Nom>Francis</Nom>
+      <Email>y.francis@valentindecker.com</Email>
+	      <Adresse>
+      <Adresse1>rue Maurice Audin</Adresse1>
+      <CP>95820</CP>
+      <Ville>Bruyères-sur-Oise</Ville>
+    </Adresse>
+    </Contact>
+</Societe>

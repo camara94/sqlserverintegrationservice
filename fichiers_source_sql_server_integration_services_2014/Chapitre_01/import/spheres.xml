@@ -1,0 +1,73 @@
+<Societe>
+    <Societe>Musique des Sphères</Societe>
+    <Contact>
+      <Prenom>Adam</Prenom>
+      <Nom>Mazairat</Nom>
+      <Email>a.mazairat@musiquedesspheres.com</Email>
+	      <Adresse>
+      <Adresse1>avenue du Président</Adresse1>
+      <CP>60590</CP>
+      <Ville>Flavacourt</Ville>
+    </Adresse>
+    </Contact>
+    <Contact>
+      <Prenom>Caroline</Prenom>
+      <Nom>Pierre</Nom>
+      <Email>c.pierre@musiquedesspheres.com</Email>
+	      <Adresse>
+      <Adresse1>avenue du doyen Louis Weil</Adresse1>
+      <CP>60480</CP>
+      <Ville>Francastel</Ville>
+    </Adresse>
+    </Contact>
+    <Contact>
+      <Prenom>Yvon</Prenom>
+      <Nom>Perez</Nom>
+      <Email>y.perez@musiquedesspheres.com</Email>
+	      <Adresse>
+      <Adresse1>avenue du Maréchal Foch</Adresse1>
+      <CP>60530</CP>
+      <Ville>Ercuis</Ville>
+    </Adresse>
+    </Contact>
+    <Contact>
+      <Prenom>Adam</Prenom>
+      <Nom>Richard</Nom>
+      <Email>a.richard@musiquedesspheres.com</Email>
+	  <Adresse>
+      <Adresse1>avenue des IV Pavés du Roy</Adresse1>
+      <CP>60120</CP>
+      <Ville>Chepoix</Ville>
+    </Adresse>
+    </Contact>
+    <Contact>
+      <Prenom>Caroline</Prenom>
+      <Nom>Caton</Nom>
+      <Email>c.caton@musiquedesspheres.com</Email>
+	      <Adresse>
+      <Adresse1>rue des Abondances</Adresse1>
+      <CP>59244</CP>
+      <Ville>Cartignies</Ville>
+    </Adresse>
+    </Contact>
+    <Contact>
+      <Prenom>Ilana</Prenom>
+      <Nom>Philippe</Nom>
+      <Email>i.philippe@musiquedesspheres.com</Email>
+	  <Adresse>
+      <Adresse1>Route de Lennik</Adresse1>
+      <CP>62147</CP>
+      <Ville>Doignies</Ville>
+    </Adresse>
+    </Contact>
+    <Contact>
+      <Prenom>Yvon</Prenom>
+      <Nom>Dranse</Nom>
+      <Email>j.dranse@musiquedesspheres.com</Email>
+	      <Adresse>
+      <Adresse1>Place Jean Nouzille</Adresse1>
+      <CP>59730</CP>
+      <Ville>Beaurain</Ville>
+    </Adresse>
+    </Contact>
+  </Societe>

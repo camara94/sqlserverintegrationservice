@@ -1,0 +1,113 @@
+  <Societe>
+    <Societe>Cata Prod</Societe>
+    <Contact>
+      <Prenom>Anatole</Prenom>
+      <Nom>Martinez</Nom>
+      <Email>a.martinez@cataprod.com</Email>
+      <Adresse>
+        <Adresse1>avenue Léon Gambetta</Adresse1>
+        <CP>75011</CP>
+        <Ville>Paris</Ville>
+      </Adresse>
+    </Contact>
+    <Contact>
+      <Prenom>Lily</Prenom>
+      <Nom>Leclercq</Nom>
+      <Email>l.leclercq@cataprod.com</Email>
+	      <Adresse>
+      <Adresse1>rue la Fontaine</Adresse1>
+      <CP>72380</CP>
+      <Ville>Montbizot</Ville>
+    </Adresse>
+    </Contact>
+    <Contact>
+      <Prenom>Emile</Prenom>
+      <Nom>Masson</Nom>
+      <Email>e.masson@cataprod.com</Email>
+    <Adresse>
+      <Adresse1>avenue Marcel Dassault</Adresse1>
+      <CP>95550</CP>
+      <Ville>Bessancourt</Ville>
+    </Adresse>	  
+    </Contact>
+    <Contact>
+      <Prenom>Henri</Prenom>
+      <Nom>Roche</Nom>
+      <Email>h.roche@cataprod.com</Email>
+	      <Adresse>
+      <Adresse1>Place Montgolfier</Adresse1>
+      <CP>75002</CP>
+      <Ville>Paris</Ville>
+    </Adresse>
+    </Contact>
+    <Contact>
+      <Prenom>Alexine</Prenom>
+      <Nom>Petit</Nom>
+      <Email>a.petit@cataprod.com</Email>
+	      <Adresse>
+      <Adresse1>rue du patis Tatelin</Adresse1>
+      <CP>58360</CP>
+      <Ville>Préporché</Ville>
+    </Adresse>
+    </Contact>
+    <Contact>
+      <Prenom>Angèle</Prenom>
+      <Nom>Martin</Nom>
+      <Email>a.martin@cataprod.com</Email>
+	      <Adresse>
+      <Adresse1>place d'Iéna</Adresse1>
+      <CP>12260</CP>
+      <Ville>Salles-Courbatiès</Ville>
+    </Adresse>
+    </Contact>
+    <Contact>
+      <Prenom>Nathan</Prenom>
+      <Nom>Lambert</Nom>
+      <Email>n.lambert@cataprod.com</Email>
+	      <Adresse>
+      <Adresse1>rue du Maréchal Joffre</Adresse1>
+      <CP>52140</CP>
+      <Ville>Épinant</Ville>
+    </Adresse>
+    </Contact>
+    <Contact>
+      <Prenom>Augustine</Prenom>
+      <Nom>Picard</Nom>
+      <Email>a.picard@cataprod.com</Email>
+	  <Adresse>
+      <Adresse1>rue du Georges Clemenceau</Adresse1>
+      <CP>45340</CP>
+      <Ville>Batilly-en-Gâtinais</Ville>
+    </Adresse>
+    </Contact>
+    <Contact>
+      <Prenom>Grégoire</Prenom>
+      <Nom>Fernandez</Nom>
+      <Email>g.fernandez@cataprod.com</Email>
+	      <Adresse>
+      <Adresse1>rue de la Brèche aux Loups</Adresse1>
+      <CP>75020</CP>
+      <Ville>Paris</Ville>
+    </Adresse>
+    </Contact>
+    <Contact>
+      <Prenom>Philémon</Prenom>
+      <Nom>Garnier</Nom>
+      <Email>p.garnier@cataprod.com</Email>
+	  <Adresse>
+		<Adresse1>rue Gustave Delory</Adresse1>
+      <CP>82150</CP>
+      <Ville>Montaigu-de-Quercy</Ville>
+    </Adresse>
+    </Contact>
+    <Contact>
+      <Prenom>Virgil</Prenom>
+      <Nom>Renard</Nom>
+      <Email>v.renard@cataprod.com</Email>
+	      <Adresse>
+      <Adresse1>rue Jean Pelletier</Adresse1>
+      <CP>75012</CP>
+      <Ville>Paris</Ville>
+    </Adresse>
+    </Contact>
+  </Societe>
