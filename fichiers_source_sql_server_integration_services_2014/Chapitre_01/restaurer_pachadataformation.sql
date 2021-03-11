@@ -1,0 +1,12 @@
+USE Master;
+GO
+
+ALTER DATABASE PachaDataFormation
+SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+GO
+
+RESTORE DATABASE PachaDataFormation 
+FROM  DISK = N'D:\BackUp\pachadata2012.bak' 
+WITH  FILE = 2,  NOUNLOAD,  STATS = 5
+GO
+
